@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492200500275",
+    "firebase_url": "https://eratani-e731c-default-rtdb.firebaseio.com",
+    "project_id": "eratani-e731c",
+    "storage_bucket": "eratani-e731c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492200500275:android:2f7e831ea8e8eafca21746",
+        "android_client_info": {
+          "package_name": "com.example.eratani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492200500275-bh13gtnvmh9pk63q5u7383d0nkvmhts3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eratani",
+            "certificate_hash": "6201591ff0a8af48e64fa0db0b6688f8b1065ae9"
+          }
+        },
+        {
+          "client_id": "492200500275-hkfqlaalrg5nmnp9dubm19qll3g1o6tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eCJaArfz4RhRt0sepjZh2Wo6A-l1MuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492200500275-hkfqlaalrg5nmnp9dubm19qll3g1o6tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
